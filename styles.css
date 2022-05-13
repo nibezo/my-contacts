@@ -1,0 +1,20 @@
+html {
+    font-size: 16px;
+}
+main {
+    margin-top: 7rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+div {
+    background: rgb(225, 255, 232);
+    background: linear-gradient(135deg, rgba(56,255,101,1) 0%, rgba(0,255,220,0.0.9) 100%);
+    border-radius: 0.6rem;
+    border: 0.2rem solid;
+    margin-top: 10rem;
+}
+figure figcaption {
+    font-size: 2rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
